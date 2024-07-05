@@ -8,7 +8,7 @@ def send_email(message):
     port = 465
 
     username = "theflexfound@gmail.com"
-    password = "cekfmnjqvsfuohbf"
+    password = "<email_password>"
 
     receiver = "theflexfound@gmail.com"
     context = ssl.create_default_context()
